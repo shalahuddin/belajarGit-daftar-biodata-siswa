@@ -1,4 +1,4 @@
-#BbelajarGit-daftar-biodata-siswa
+#BelajarGit-daftar-biodata-siswa
 ==
 Daftar biodata siswa Dicoding Academy 
 --
